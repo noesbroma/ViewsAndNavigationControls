@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF8A802B2BC3E709007A81C7 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8A802A2BC3E709007A81C7 /* PageViewController.swift */; };
 		AF8C18682B8CD636001BD826 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8C18672B8CD636001BD826 /* AppDelegate.swift */; };
 		AF8C186A2B8CD636001BD826 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8C18692B8CD636001BD826 /* SceneDelegate.swift */; };
 		AF8C186C2B8CD636001BD826 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8C186B2B8CD636001BD826 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AF8A802A2BC3E709007A81C7 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		AF8C18642B8CD636001BD826 /* ViewsAndNavigationControls.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewsAndNavigationControls.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF8C18672B8CD636001BD826 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AF8C18692B8CD636001BD826 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				AF8C18702B8CD638001BD826 /* Assets.xcassets */,
 				AF8C18722B8CD638001BD826 /* LaunchScreen.storyboard */,
 				AF8C18752B8CD638001BD826 /* Info.plist */,
+				AF8A802A2BC3E709007A81C7 /* PageViewController.swift */,
 			);
 			path = ViewsAndNavigationControls;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				AF8C186C2B8CD636001BD826 /* ViewController.swift in Sources */,
 				AF8C18682B8CD636001BD826 /* AppDelegate.swift in Sources */,
 				AF8C186A2B8CD636001BD826 /* SceneDelegate.swift in Sources */,
+				AF8A802B2BC3E709007A81C7 /* PageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
